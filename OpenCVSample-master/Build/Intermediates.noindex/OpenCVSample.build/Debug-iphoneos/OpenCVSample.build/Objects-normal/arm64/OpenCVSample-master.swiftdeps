@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "691e7c6d5a122e308555b9627270ee21"
+build_time: [1590559125, 322936000]
+inputs:
+  "/Users/wall1350/GitLab/OpenCVSample/OpenCVSample-master/OpenCVSample/ViewController.swift": [1590500593, 393010139]
+  "/Users/wall1350/GitLab/OpenCVSample/OpenCVSample-master/OpenCVSample/AppDelegate.swift": [1590488456, 727465987]

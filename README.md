@@ -1,8 +1,10 @@
 OpenCVSample
 
-提供python與 swift+oc 兩種版本，都是透過opencv實作
+提供python與 swift＆c++ 兩種版本，都是透過opencv實作
 
 開啟ios App之後請點選 Edge 可以看見效果
+
+另外，原版的opencv ios framwork 太大（快200M），我有做一些處理，讓framwork縮小
 
 參考：
 

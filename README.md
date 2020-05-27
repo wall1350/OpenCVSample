@@ -1,5 +1,7 @@
 OpenCVSample
 
+請按下edge 看效果
+
 提供python與 swift＆c++ 兩種版本，都是透過opencv實作
 
 開啟ios App之後請點選 Edge 可以看見效果
